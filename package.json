@@ -1,0 +1,15 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "description": "Sends mails",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel S. Ramos",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^109.0.1",
+    "nodemailer": "^6.8.0"
+  }
+}
